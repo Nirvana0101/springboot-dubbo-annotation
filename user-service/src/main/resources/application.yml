@@ -9,4 +9,4 @@ dubbo:
     name: dubbo
     port: 12345
   registry:
-    address: zookeeper://:2181
+    address: zookeeper://114.115.215.115:2181
